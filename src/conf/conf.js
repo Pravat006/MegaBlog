@@ -4,7 +4,7 @@ const conf = {
     appwriteDatabaseID: String(import.meta.env.VITE_APPWRITE_DATABASE_ID),
     appwriteCollectionID: String(import.meta.env.VITE_APPWRITE_COLLECTION_ID),
     appwriteBucketID: String(import.meta.env.VITE_APPWRITE_BUCKET_ID),
-    tinyMceApiKey: String(import.meta.env.TINY_MCE_API_KEY)
+    //tinyMceApiKey: String(import.meta.env.TINY_MCE_API_KEY)
 
 };
 
